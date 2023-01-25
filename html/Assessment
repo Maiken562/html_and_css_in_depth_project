@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Magnata & Gala/title</title>
+    <meta name="description" content="A brief description">
+    <meta name="author" content="Magnata & Gala">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <img src="Assetlogo.png">
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</li>
+            <li><a href="#engagements">Engagements</li>
+            <li><a href="#weddings">Weddings</li>
+            <li><a href="#anniversaries">Anniversaries</li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <article>
+                <h1>Our Mission</h1>
+                <p>We're proud to build on our legacy as the leader in diamond traceability with responsibly sourced, expertly crafted diamond rings that celebrate love in all its forms.</p>
+            </article>
+        </section>
+        <section>
+            <article>
+                <h2>Engagement Rings</h2>
+                <p>Let her feel the fragrance of your passion with our charismatic Engagement Rings. Signify your perpetual love with any of these beautiful objects of desire, virtuous of witnessing the most treasured moments of your life.</p>
+            </article>
+            <article>
+                <h2>Weddings</h2>
+                <p>Browse our amazing collection of Bridals Jewelry meticulously crafted to experience bigger looks and exceptional value.</p>
+            </article>
+            <article>
+                <h2>Anniversaries</h2>
+                <p>Celebrate your incredible years together with something from our anniversary jewelry collection.</p>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <div>
+            <img src="logo_footer.png">
+        </div>
+        <div>
+            <p>Copyright</p>
+        </div>
+    </footer>
+</body>
